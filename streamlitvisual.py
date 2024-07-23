@@ -182,7 +182,6 @@ elif page == "Other Insights":
             st.bar_chart(df.set_index('category')['number_of_languages'])
 
 
-# Custom CSS for footer
 st.markdown("""
     <style>
         footer {visibility: hidden;}
