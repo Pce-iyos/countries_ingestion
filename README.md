@@ -9,6 +9,8 @@ The project involves the following steps:
 3. Loading the transformed data into a postgresSQL database by creating the necessary fields required.
 4. Using the loaded data, several analyses and visualisation were conducted to answer the questions asked in the project, using streamlit.
 5. Apache Airflow was used as the ochestration tool to schedule and manage the entire ETL process
+6. A notification was sent to a discord server whenever the data was extracted and when it was loaded to postgres
+
 
 ## Data Architecture
 
