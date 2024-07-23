@@ -15,3 +15,11 @@ The project involves the following steps:
 ## Data Architecture
 
 ![Screenshot 2024-07-23 194043](https://github.com/user-attachments/assets/db2a61ce-e4a2-4c95-a9c7-7f6bbd4dd10a)
+
+
+
+This is the .env file to test
+
+DATABASE_URI=postgresql://postgres:yourpassword@localhost:5432/countries
+
+DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/1265233454576963595/I5RPaMRA5wF8i5xCkXx0i0bOa4oJN_NJm11n-CfpVCjqqHNb-Oyn0_B_gE5q3Na-ynp9
